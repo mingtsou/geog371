@@ -2,6 +2,7 @@
 
 Original from Web Mapping @ Oregon State University (Created by Dr. Bo Zhao, University of Washington - Seattle), Modified for SDSU GEOG583 Class Lab (Dr. Ming-Hsiang Tsou)
 
+> [Gear up the Working Environment](resources/gearup.md) :computer: :cloud: :earth_americas: :beer:
 
 | Week  |               Lecture (M)                |               Lecture (W)                |                 Lab (M)                |               Lecture (F)                |                 Reading                  |
 | :---: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
