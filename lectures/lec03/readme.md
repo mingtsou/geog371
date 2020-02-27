@@ -1,8 +1,9 @@
-# Web Programming Basics I: HTML and CSS
+## GEOG583 Internet Mapping (SDSU)
+# LAB04: Web Programming Basics I: HTML and CSS
 
-> Winter 2019 | Geography 371 | Web Mapping
->
-> **Instructor:** Bo Zhao | **Location:** WLKN 210 | **Time:** MWF 0800 - 0850
+This exercise is modified from Web Mapping @ Oregon State University (Created by Dr. Bo Zhao, University of Washington - Seattle), Special Thank to Dr. Zhao with his permission to use this material.  
+https://github.com/jakobzhao/geog371
+
 
 **Learning Objectives**
 
