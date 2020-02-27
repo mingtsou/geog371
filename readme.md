@@ -1,5 +1,7 @@
 # GEOG583 Internet Mapping (SDSU)
 
+Original from Web Mapping @ Oregon State University (Created by Dr. Bo Zhao, University of Washington - Seattle), Modified for SDSU GEOG583 Class Lab (Dr. Ming-Hsiang Tsou)
+
 
 | Week  |               Lecture (M)                |               Lecture (W)                |                 Lab (M)                |               Lecture (F)                |                 Reading                  |
 | :---: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
