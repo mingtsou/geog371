@@ -1,10 +1,9 @@
 # GEOG583 Internet Mapping (SDSU)
 
-> [Gear up the Working Environment](resources/gearup.md) :computer: :cloud: :earth_americas: :beer:
 
 | Week  |               Lecture (M)                |               Lecture (W)                |                 Lab (M)                |               Lecture (F)                |                 Reading                  |
 | :---: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
-| Wk 01 |    [Intro to the Course](lectures/lec01), [Gear Up! :gear:](resources/gearup.md)    |   [Internet Fundamentals](lectures/lec00)   | [Lab 1: Project Management for Web Mapping](labs/lab01) |  [Intro to Web Mapping](lectures/lec02), :rocket: [Quiz 01](quizzes/quiz01) | [Markdown, Links and Command Lines](readings/wk01.md) |
+
 | Wk 02 | [Web Programming Basics I: HTML 5 and CSS](lectures/lec03) | [System Architecture for Web Mapping](lectures/lec04) | [Lab 2: Web Programming Basics II: Javascript](labs/lab02) | [Web Programming Basics III: JQuery](lectures/lec05), [ :rocket: Quiz 02](quizzes/quiz02/) | [HTML, CSS and Javascript](readings/wk02.md) |
 | Wk 03 | *MLK Day* |  [Web Programming Basics IV: Debugging](lectures/lec05) and [debugging](https://scotch.io/tutorials/debugging-javascript-with-chrome-devtools-breakpoints)|          [Lab 3: Web Map Design](labs/lab03/readme.md)           |[Spatial Data for Web Mapping](lectures/lec06), :rocket: [Quiz 03](quizzes/quiz03)   |  [Leaflet and GeoJson](readings/wk03.md)  |
 | Wk 04 |  [Map Client I: Basics and Geographic Features](lectures/lec07) | [Map Client II: Map Events and Mashup](lectures/lec08)  |              Lab 3: Cont'd               |  [Map Client III: Web Map Interaction](lectures/lec09), :rocket: [Quiz 04](quizzes/quiz04) |    [GeoServer Documentation](readings/wk04.md)    |
