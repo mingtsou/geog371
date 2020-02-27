@@ -4,7 +4,7 @@ Original from Web Mapping @ Oregon State University (Created by Dr. Bo Zhao, Uni
 
 
 
-| Week  |               Lecture (M)                |               Lecture (W)                |                 Lab (M)                |               Lecture (F)                |                 Reading                  |
+| Week  |               LAB                |               LAB                |                LAB                |               LAB                |                 Reading                  |
 | :---: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
 | LAB |    | [Markdown, Links and Command Lines](readings/wk01.md) |
 | LAB4 | [Web Programming Basics I: HTML 5 and CSS](lectures/lec03) | [System Architecture for Web Mapping](lectures/lec04) | [Lab 2: Web Programming Basics II: Javascript](labs/lab02) | [Web Programming Basics III: JQuery](lectures/lec05), [ :rocket: Quiz 02](quizzes/quiz02/) | [HTML, CSS and Javascript](readings/wk02.md) |
