@@ -32,9 +32,9 @@ Standard protocol is that a file named **index** is what will be provided by def
 > **Note:** the HTML file extension, indicating the file is written in HTML). The file structure found in my directory looks like the following.
 
 ```
- Geog371
-   lectures
-     lec03
+ Geog583
+   Exercise
+     Lab04
       │  index.html
       ├─css
       ├─img
@@ -53,7 +53,7 @@ To host a web application, you need to move the codes and the supplemental files
 
 ## 3. Use an IDE
 
-While you can get away with using a basic text editor to create HTML files, there are Integrated Development Environment (IDE) designed to make your life easier by color coding code snips and autocompleting lines. Download and install one of the following text editing software if you don’t already have one. In this lecture, you will mainly use `Atom` to edit HTML, CSS, and Javascript files. We also have `Atom` installed in the Digital Earth Lab, and you can install an open source version of `Atom` on your own machine, no matter you are a Mac or Windows users. Here is a list of other IDEs:
+While you can get away with using a basic text editor to create HTML files, there are <strong> Integrated Development Environment (IDE) </strong> designed to make your life easier by color coding code snips and autocompleting lines. Download and install one of the following text editing software if you don’t already have one. In this lecture, you will mainly use `Atom` to edit HTML, CSS, and Javascript files. We also have `Atom` installed in the Digital Earth Lab, and you can install an open source version of `Atom` on your own machine, no matter you are a Mac or Windows users. Here is a list of other IDEs:
 
 - `Webstorm` - (Windows, Mac, or Linux) One of cross-platform IDEs primarily for web, JavaScript and TypeScript development. Many of JetBrain's other IDEs include the feature set of WebStorm via plugins.
 - `Sublime Text` – (Windows, Mac, or Linux) One of the most popular and well-loved text editors around. Free to download and use, but will occasionally show a pop-up window if you don’t purchase it. This is what I’ll be using during the workshop
