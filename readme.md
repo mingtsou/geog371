@@ -41,19 +41,6 @@
 
 [Jquery](https://jquery.com/), [Bootstrap](http://getbootstrap.com/), [Leaflet](https://leafletjs.com), [Storymap.js](https://github.com/jakobzhao/storymap), and [Cesium](cesiumjs.org)
 
-### Previous Years
-
-#### [2017 Fall](http://geoviz.ceoas.oregonstate.edu/geog371.html#portfolio)
-
-![](resources/img/2017_fall.jpg)
-
-#### [2017 Winter](http://geoviz.ceoas.oregonstate.edu/project_gallery/)
-
-![](resources/img/2017_winter.jpg)
-
-- :trophy: [A story map on Infrastructure for Water Management](http://rawgit.com/cartobaldrica/water_atlas/master/infrastructure_index.html) from a former student has won the environmental challenge 2017
-
-![](resources/img/2017-envchallenge.jpg)
 
 ### Credits
 <img src="resources/img/logo.png" width="25%" height="25%" align="right" />This course material is maintained by the [Cartography and Geovisualization Group at Oregon State University](http://geoviz.ceoas.oregonstate.edu). Some of the material in this course are based on the classes taught at MIT and Penn State University and I have heavily drawn on materials and examples found online and tried our best to give credit by linking to the original source. Please contact us if you find materials where the credit is missing or that you would rather have removed.
