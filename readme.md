@@ -15,15 +15,6 @@
 | Wk 10 |                        [Emerging Topics on Web Mapping](lectures/lec26)                         |                                                         Final Project Discussion and Preparation                                                          |      Final Project Presentation - ***Digital Earth Lab Wilkinson 203 - Thursday March 14th, 9am to noon***            | Final Project Discussion and Preparation   |        [Elwood et al. (2012), Sui and Zhao (2015)](readings/wk10.md)         |
 
 
-### [Final Project Guideline](project/readme.md)
-
-- [Favicon](lectures/lec16/readme.md)
-- [Videos](resources/video.md)
-- [Images](resources/image.md)
-- [Iconography](resources/icon.md)
-- [Web Fonts](resources/fonts.md)
-- [Colors](resources/color.md)
-- [Social media](lectures/lec16/readme.md)
 
 ### Programming Languages
 
