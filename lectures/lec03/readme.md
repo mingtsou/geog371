@@ -106,10 +106,7 @@ After installing these packages, close the "Install Packages" window by clicking
 
  - `Ctrl` + `Alt` + `8` launch live server on port 8000.
 
-The best part of the Atom's live server is that it can simultaneously visualize the change of the code as a new web page in the browser. Most IDEs do not provide this live-update feature. Conventionally, once a change has been made, you will need to stop the server and relaunch it again to ensure the change is applied to the web page. In this sense, this feature has greatly increase the efficency of web programming. See the demo below:
-
-![](img/live-server.gif)
-
+The best part of the Atom's live server is that it can simultaneously visualize the change of the code as a new web page in the browser. Most IDEs do not provide this live-update feature. Conventionally, once a change has been made, you will need to stop the server and relaunch it again to ensure the change is applied to the web page. In this sense, this feature has greatly increase the efficency of web programming. 
 
  > For more detailed information about the integrated live server on atom, please refer to [https://atom.io/packages/atom-live-server](https://atom.io/packages/atom-live-server).
 
