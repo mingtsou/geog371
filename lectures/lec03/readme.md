@@ -94,15 +94,15 @@ Atom is a customizable IDE, so to fully prepare it for web programming, you will
     language-markdown
     pdf-view
 
-After installing these packages, close the "Install Packages" window by clicking on the "X" icon next to the "Settings" (top window).  You can open the Atom's main window again. Then press a key combination `Ctrl` + `Alt` + `l` to open up a live server. In this way, a server environment will automatically launch, and a browser showing the front page of the server will be opened up.
+After installing these packages, close the "Install Packages" window by clicking on the "X" icon next to the "Settings" (top window).  You can open the Atom's main window again. Then press a key combination `Ctrl` + `Alt` + `8` to open up a live server (using port 8000). In this way, a server environment will automatically launch, and a browser showing the front page of the server will be opened up.
 
- Sometimes, you will need to relaunch the live server, so you can stop the server by pressing `Ctrl` + `Alt` + `q`, and then quickly start it by pressing `Ctrl` + `Alt` + `l`. Also, to set up the server on a dedicated port, or you want to set up multiple server for testing purpose, please refer to the commands below:
+ Sometimes, you will need to relaunch the live server, so you can stop the server by pressing `Ctrl` + `Alt` + `q`, and then quickly start it by pressing `Ctrl` + `Alt` + `8`. Also, to set up the server on a dedicated port, or you want to set up multiple server for testing purpose, please refer to the commands below:
 
- - `Ctrl` + `Alt` + `3` launch live server on port 3000;
+ - `Ctrl` + `Alt` + `l` launch live server on port 3000; (Note: some windows machine may have some problems with this 3000 port).
 
  - `Ctrl` + `Alt` + `4`launch live server on port 4000;
 
- - `Ctrl` + `Alt` + `5` launch live server on port 5000; and
+ - `Ctrl` + `Alt` + `5` launch live server on port 5000; 
 
  - `Ctrl` + `Alt` + `8` launch live server on port 8000.
 
