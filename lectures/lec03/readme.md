@@ -64,7 +64,7 @@ While you can get away with using a basic text editor to create HTML files, ther
 
 ## 4. Start up a Web Server
 
-For testing and debugging purpose, we need our computer to act like a WebServer, allowing it to access files online. There are many tools for doing this, and one is built right into python. If you use a Mac or Linux, please open `Terminal`, if on Windows, open command prompt. In the main working interface, use the command `cd` to **change directory** to the folder in which your website files are located. Once there, type the following to start a simple Python server.
+For testing and debugging purpose, we need our computer to act like a WebServer, allowing it to access files online. There are many tools for doing this, and one is built right into python. If you use a Mac or Linux, please open `Terminal`, if on Windows, open command prompt. (link to https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/).  In the main working interface, use the command `cd` to **change directory** to the folder in which your website files are located. Once there, type the following to start a simple Python server.
 
 ```bash
 $ python -m SimpleHTTPServer 8000
