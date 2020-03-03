@@ -82,7 +82,19 @@ $ python -m SimpleHTTPServer 80
 
 Now you can access your site **http://localhost** without specifying a port.
 
-Other than setting up a server environment through python SimpleHTTPServer, you can also If you work in `Atom` (what we suggested for this course), you do not need to start the Python server by inputting commands in the Terminal or Command promt. In Atom's main window, please press a key combination `Ctrl` + `Alt` + `l` to open up a live server. In this way, a server environment will automatically launch, and a browser showing the front page of the server will be opened up.
+Other than setting up a server environment through python SimpleHTTPServer, you can also If you work in `Atom` (what we suggested for this course), you do not need to start the Python server by inputting commands in the Terminal or Command promt. 
+
+
+Atom is a customizable IDE, so to fully prepare it for web programming, you will need to install additional packages. To do that, press crtl+shift+p to open the search dialog, and then input "install packages And Themes" to navigate to the package install interface. In this interface, please search and install the following recommended packages:
+
+    markdown-preview-enhanced
+    teletype
+    atom-live-server
+    file-icons
+    language-markdown
+    pdf-view
+
+After installing these packages, you can open the Atom's main window again. Please press a key combination `Ctrl` + `Alt` + `l` to open up a live server. In this way, a server environment will automatically launch, and a browser showing the front page of the server will be opened up.
 
  Sometimes, you will need to relaunch the live server, so you can stop the server by pressing `Ctrl` + `Alt` + `q`, and then quickly start it by pressing `Ctrl` + `Alt` + `l`. Also, to set up the server on a dedicated port, or you want to set up multiple server for testing purpose, please refer to the commands below:
 
