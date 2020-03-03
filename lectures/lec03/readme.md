@@ -94,7 +94,7 @@ Atom is a customizable IDE, so to fully prepare it for web programming, you will
     language-markdown
     pdf-view
 
-After installing these packages, you can open the Atom's main window again. Please press a key combination `Ctrl` + `Alt` + `l` to open up a live server. In this way, a server environment will automatically launch, and a browser showing the front page of the server will be opened up.
+After installing these packages, close the "Install Packages" window by clicking on the "X" icon next to the "Settings" (top window).  You can open the Atom's main window again. Then press a key combination `Ctrl` + `Alt` + `l` to open up a live server. In this way, a server environment will automatically launch, and a browser showing the front page of the server will be opened up.
 
  Sometimes, you will need to relaunch the live server, so you can stop the server by pressing `Ctrl` + `Alt` + `q`, and then quickly start it by pressing `Ctrl` + `Alt` + `l`. Also, to set up the server on a dedicated port, or you want to set up multiple server for testing purpose, please refer to the commands below:
 
