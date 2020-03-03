@@ -74,7 +74,7 @@ $ python -m SimpleHTTPServer 8000
 
 Now open a browser and access your site at: **http://localhost:8000**
 
-8000 is the default port of SimpleHTTPServer. Other than 8000, you can also try 80 that is the default port of Http service. for example:
+8000 is the default port of SimpleHTTPServer. Other than 8000, you can also try 80 that is the default port of Http service. To Test the HTTP port, you need to close your current browser first.  Then press "Control-C" to quit the python task first.  Then you can try the following example:
 
 ```bash
 $ python -m SimpleHTTPServer 80
