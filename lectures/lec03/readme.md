@@ -316,9 +316,9 @@ At present, your document will look something like the following.
 		<h1>Hello World</h1>
 		<div id="main">
 			<p id="foo">This is my first paragraph.</p>
-			<p id="bar">This is my second paragraph. <a href="http://www.sdsu.edu">Take me to SDSU</a>.</p>
-			<img src="img/SDSU.jpg"/>
-			<img src=https://newscenter.sdsu.edu/sdsu_newscenter/images/stories/newstormnasatir589.jpg/>
+			<p id="bar">This is my second paragraph. <a href="http://www.sdsu.edu"> Take me to SDSU </a>.</p>
+			<img src="img/SDSU.jpg" />
+			<img src=https://newscenter.sdsu.edu/sdsu_newscenter/images/stories/newstormnasatir589.jpg" />
 		</div>
 	</body>
 </html>
