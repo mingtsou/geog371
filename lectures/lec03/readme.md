@@ -114,7 +114,7 @@ The best part of the Atom's live server is that it can simultaneously visualize 
 
 In the next steps, we will create a blank document, fill it with HTML code, save it as `index.html`, and view our results in a browser.
 
-In your IDE, open and create a new blank document. (Click on ‘Open a Project’ then select the file path for your root directory. Then select ‘File’ -> ‘New File’ to open a blank document.) Remember to save your file as ‘index.html’, then launch the live server using `Ctrl + Alt + 8`.
+In your IDE (Atom), open and create a new blank document. (Click on `File` menu -> `Add Project Folder` then select the folder path for your root directory (such as <yourname-web> folder). Then select ‘File’ -> ‘New File’ to open a blank document.) Remember to save your file as ‘index.html’, then launch the live server using `Ctrl + Alt + 8`.
 
 Signify that the document will be written in HTML by adding the following line at the top of your file.
 
