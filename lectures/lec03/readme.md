@@ -355,8 +355,9 @@ CSS can be added to style your website in one of a few ways. You can apply CSS t
 In the materials for this lecture, locate the file 'main.css'. 
 https://github.com/mingtsou/geog583/blob/master/lectures/lec03/css/main.css
 
-This is our stylesheet. We can name it anything really, as long as it has the CSS file type. Copy and paste this in a new file in your text editor to view the contents. 
-Save your new document in the same project as ‘main.css’, save your ‘index.html’ document, and refresh your page. Everything should center. This is because we applied CSS code to our document by linking to our style file.
+This is our main stylesheet for our website. In your web root folder, create a new sub-folder `css`. Then copy this main.css file into the css folder. 
+
+Save your ‘index.html’ document now, and refresh your page. Everything should center. This is because we applied CSS code to our document by linking to our style file.
 
 It is a very simple bit of CSS that tells everything in the body element to center in the page.
 
