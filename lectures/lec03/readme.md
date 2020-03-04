@@ -281,7 +281,8 @@ You have many options for links. For example, if you want a link to open in a ne
 
 Adding an image is just as easy as adding a hyperlink, although a bit different. An image is not stored on your webpage, but it sits on your server, just like your other files. When you display an image in an html file, you are linking to the image. The HTML tells the browser to locate and display it. Therefore, we will follow a multiple step process.
 
-- Locate the folder named `img` that you copied to your web directory. You will find one image here named **osu.jpg**. In this folder, you'll store all subsequent images you want to use in your page.
+- Create a sub-folder named `img` in your web directory. Download and save this image to the img folder (named **sdsu.jpg**. In this folder, you'll store all subsequent images you want to use in your page.
+
 - Use the `img` tag to link to that image in your `index.html`
 
 Now we can add the image to our index.html. The following line of code uses the img tag, and then links to our image. We will use the `src` attribute to name the source of the image. The image is coming from our own server, we don't need to go externally to get it, so we can put the name of the folder and image as our image address.
@@ -293,7 +294,7 @@ Copy and paste this following line in between the `body` tags in your `index.htm
 If you want to add an image from another page, you can simply include the URL at which the image is located. The following links to an image for Storm Hall.
 
 ```xml
-<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t31.0-8/10914880_10152448620756572_6714836688380631129_o.jpg?_nc_cat=107&_nc_sid=6e5ad9&_nc_ohc=C0yc53WAuwUAX_iRyrv&_nc_ht=scontent-lax3-2.xx&oh=abbb42f187778508a27e0589bb18ccbc&oe=5E83B787 />
+<img src=https://newscenter.sdsu.edu/sdsu_newscenter/images/stories/newstormnasatir589.jpg />
 ```
 
 ### Our Code
@@ -312,8 +313,8 @@ At present, your document will look something like the following.
 		<h1>Hello World</h1>
 		<div id="main">
 			<p id="foo">This is my first paragraph.</p>
-			<p id="bar">This is my second paragraph. <a href="http://www.oregonstate.edu">Take me to OSU</a>.</p>
-			<img src="img/osu.jpg"/>
+			<p id="bar">This is my second paragraph. <a href="http://www.sdsu.edu">Take me to SDSU</a>.</p>
+			<img src=https://newscenter.sdsu.edu/sdsu_newscenter/images/stories/newstormnasatir589.jpg/>
 		</div>
 	</body>
 </html>
