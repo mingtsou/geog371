@@ -161,7 +161,7 @@ For our page, since it is in HTML, we have to put everything in an tag. Do this 
 </html>
 ```
 
-Save the file first.  Now you can launch the web page from the Atom by pressing `Ctrl` + `Alt` + `8`.  
+Save the `index.html` file first.  Now you can launch the web page from the Atom by pressing `Ctrl` + `Alt` + `8`.  
 You should see the "Hello World" web page in your default web browser. 
 
 ### The DOM: Document Object Model
