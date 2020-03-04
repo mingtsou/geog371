@@ -112,9 +112,9 @@ The best part of the Atom's live server is that it can simultaneously visualize 
 
 ## 5. HTML: The Core Concepts
 
-In the next steps, we will create a blank document, fill it with HTML code, save it as index.html, and view our results in a browser.
+In the next steps, we will create a blank document, fill it with HTML code, save it as `index.html`, and view our results in a browser.
 
-In your IDE, open and create a new blank document. Signify that the document will be written in HTML by adding the following line at the top of your file.
+In your IDE (Atom), open your project first (such as the empty folder <yourname-web> ) and create a new blank document (File menu-> New File, File menu -> Save as `index.html` Signify that the document will be written in HTML by adding the following line at the top of your file.
 
 ```html
 <!DOCTYPE html>
