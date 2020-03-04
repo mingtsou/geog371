@@ -116,7 +116,7 @@ In the next steps, we will create a blank document, fill it with HTML code, save
 
 In your IDE (Atom), open and create a new blank document. (Click on `File` menu -> `Add Project Folder` then select the folder path for your root directory (such as <yourname-web> folder). Then, select `File` -> `New File` to open a blank document.) Now, Save your file as ‘index.html’ (select `File` -> `Save as` --> `index.html`.
 
-Signify that the document will be written in HTML by adding the following line at the top of your file.
+The first step is to signify that the document will be written in HTML by adding the following line at the top of your file.
 
 ```html
 <!DOCTYPE html>
@@ -160,6 +160,9 @@ For our page, since it is in HTML, we have to put everything in an tag. Do this 
     </body>
 </html>
 ```
+
+Save the file first.  Now you can launch the web page from the Atom by pressing `Ctrl` + `Alt` + `8`.  
+You should see the "Hello World" web page in your default web browser. 
 
 ### The DOM: Document Object Model
 
