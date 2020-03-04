@@ -270,7 +270,7 @@ The h1 tag signifies a heading, this is a bolded style of text that vary in size
 Adding a link to your site is simple. To add a link, we use the a tag. The a tag defines a hyperlink that can be used to link from one page to another. HTML tags can have attributes. Attributes define and provide additional information about an element. To create a hyperlink, we use the href attribute of the a tag. The following line contains a link to oregon state university's home page, and illustrates how you would set up a link. You can place links separate from your paragraphs, or place them within. Write the following line of code at the end your second paragraph, just before the p end tag.
 
 ```html
-<a href="http://www.oregonstate.edu">Take me to OSU.</a>
+<a href="http://www.sdsu.edu">Take me to SDSU.</a>
 ```
 
 You have many options for links. For example, if you want a link to open in a new page, you can use **target="_blank"** as a property of the A tag.
@@ -288,12 +288,12 @@ Now we can add the image to our index.html. The following line of code uses the 
 
 Copy and paste this following line in between the `body` tags in your `index.html`, after your last paragraph.
 
-> *Can you add another image, perhaps one showing Wilkinson Hall?*
+> *Can you add another image, perhaps one showing Storm Hall?*
 
-If you want to add an image from another page, you can simply include the URL at which the image is located. The following links to an image on Wikimedia.
+If you want to add an image from another page, you can simply include the URL at which the image is located. The following links to an image for Storm Hall.
 
 ```xml
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Oregon_State_Athletics_logo.svg/400px-Oregon_State_Athletics_logo.svg.jpg"/>
+<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t31.0-8/10914880_10152448620756572_6714836688380631129_o.jpg?_nc_cat=107&_nc_sid=6e5ad9&_nc_ohc=C0yc53WAuwUAX_iRyrv&_nc_ht=scontent-lax3-2.xx&oh=abbb42f187778508a27e0589bb18ccbc&oe=5E83B787 />
 ```
 
 ### Our Code
