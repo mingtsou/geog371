@@ -318,7 +318,7 @@ At present, your document will look something like the following.
 			<p id="foo">This is my first paragraph.</p>
 			<p id="bar">This is my second paragraph. <a href="http://www.sdsu.edu"> Take me to SDSU </a>.</p>
 			<img src="img/SDSU.jpg" />
-			<img src=https://newscenter.sdsu.edu/sdsu_newscenter/images/stories/newstormnasatir589.jpg" />
+			<img src="https://newscenter.sdsu.edu/sdsu_newscenter/images/stories/newstormnasatir589.jpg" />
 		</div>
 	</body>
 </html>
