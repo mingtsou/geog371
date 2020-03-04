@@ -116,13 +116,15 @@ In the next steps, we will create a blank document, fill it with HTML code, save
 
 In your IDE, open and create a new blank document. (Click on ‘Open a Project’ then select the file path for your root directory. Then select ‘File’ -> ‘New File’ to open a blank document.) Remember to save your file as ‘index.html’, then launch the live server using `Ctrl + Alt + 8`.
 
+Signify that the document will be written in HTML by adding the following line at the top of your file.
+
 ```html
 <!DOCTYPE html>
 ```
 
 This is called a **tag**. HTML tags are keywords surrounded by angle brackets. This tag states for the browser that the rest of your file will be written in HTML. The rest of our document will follow a very simple rule, no matter how complex the code.
 
-When you write a tag (aka `start tag`), you will need a second tag that declares the end of that part of the document (aka `end tag`). Content goes between the start and end tags. A start tag looks like and an end tag has a slash in front of it . Conceptually, you will write the following.
+When you write a tag (aka `start tag`), you will need a second tag that declares the end of that part of the document (aka `end tag`). Content goes between the start and end tags. A start tag looks like the tag above and an end tag has a slash in front of it . Conceptually, you will write the following.
 
 ```xml
 <tagname>Content...</tagname>
@@ -250,7 +252,7 @@ Let's get into the document a bit.
 
 Our HTML document is looking bare, we need to add content. We can start by modifying the heading that welcomes visitors to our site and add a couple paragraph elements.
 
-Modify the HTML code on the page to include the following. Add some paragraph `p` elements within the `div` element of your page.
+Modify the HTML code on the page to include the following. Add some paragraph `p` elements within the `div` element in the body of your page.
 
 ```xml
 <h1 id="headtext">Body Heading</h1>
@@ -342,9 +344,13 @@ CSS can be added to style your website in one of a few ways. You can apply CSS t
 
 >  **Note:** `rel` is short for relation.
 
-Save your document, and refresh your page. Everything should center. This is because we applied CSS code to our document by linking to our style file.
+In the materials for this lecture, locate the file 'main.css'. 
+https://github.com/mingtsou/geog583/blob/master/lectures/lec03/css/main.css
 
-In the materials for this lecture, locate the file 'main.css'. This is our stylesheet. We can name it anything really, as long as it has the CSS file type. Open this in your text editor to view the contents. It is a very simple bit of CSS that tells everything in the `body` element to center in the page.
+This is our stylesheet. We can name it anything really, as long as it has the CSS file type. Copy and paste this in a new file in your text editor to view the contents. 
+Save your new document in the same project as ‘main.css’, save your ‘index.html’ document, and refresh your page. Everything should center. This is because we applied CSS code to our document by linking to our style file.
+
+It is a very simple bit of CSS that tells everything in the body element to center in the page.
 
 ```css
 body {
