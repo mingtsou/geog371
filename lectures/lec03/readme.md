@@ -67,7 +67,7 @@ While you can get away with using a basic text editor to create HTML files, ther
 For testing and debugging purpose, we need our computer to act like a WebServer, allowing it to access files online. There are many tools for doing this, and one is built right into python. If you use a Mac or Linux, please open `Terminal`, if on Windows, open command prompt. (link to https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/).  In the main working interface, use the command `cd` to **change directory** to the folder in which your website files are located. For example, type `mkdir <yourname-web>`, then type `cd <yourname-web>`. Once there, type the following to start a simple Python server.
 
 ```bash
-$ python -m SimpleHTTPServer 8000
+ python -m SimpleHTTPServer 8000
 ```
 
 > **Note:** If the above command line does not work, probably your computer has not installed python yet. Please follow a tutorial at [here](../../resources/SimpleHTTPServer.md) to install a SimpleHTTPServer. Also, if you work on a Windows envrionment, the python path might not be inserted to the system envrionment yet, so you have to inserted it.
@@ -77,7 +77,7 @@ Now open a browser and access your site at: **http://localhost:8000**
 8000 is the default port of SimpleHTTPServer. Other than 8000, you can also try 80 that is the default port of Http service. To Test the HTTP port, you need to close your current browser first.  Then press "Control-C" to quit the python task first.  Then you can try the following example:
 
 ```bash
-$ python -m SimpleHTTPServer 80
+ python -m SimpleHTTPServer 80
 ```
 
 Now you can access your site **http://localhost** without specifying a port.
@@ -106,7 +106,7 @@ After installing these packages, close the "Install Packages" window by clicking
 
  - `Ctrl` + `Alt` + `8` launch live server on port 8000.
 
-The best part of the Atom's live server is that it can simultaneously visualize the change of the code as a new web page in the browser. Most IDEs do not provide this live-update feature. Conventionally, once a change has been made, you will need to stop the server and relaunch it again to ensure the change is applied to the web page. In this sense, this feature has greatly increase the efficency of web programming. 
+The best part of the Atom's live server is that it can simultaneously visualize the change of the code as a new web page in the browser. Most IDEs do not provide this live-update feature. Conventionally, once a change has been made, you will need to stop the server and relaunch it again to ensure the change is applied to the web page. In this sense, this feature has greatly increase the efficiency of web programming. 
 
  > For more detailed information about the integrated live server on atom, please refer to [https://atom.io/packages/atom-live-server](https://atom.io/packages/atom-live-server).
 
@@ -114,7 +114,7 @@ The best part of the Atom's live server is that it can simultaneously visualize 
 
 In the next steps, we will create a blank document, fill it with HTML code, save it as `index.html`, and view our results in a browser.
 
-In your IDE (Atom), open your project first (such as the empty folder <yourname-web> ) and create a new blank document (File menu-> New File, File menu -> Save as `index.html` Signify that the document will be written in HTML by adding the following line at the top of your file.
+In your IDE, open and create a new blank document. (Click on ‘Open a Project’ then select the file path for your root directory. Then select ‘File’ -> ‘New File’ to open a blank document.) Remember to save your file as ‘index.html’, then launch the live server using `Ctrl + Alt + 8`.
 
 ```html
 <!DOCTYPE html>
