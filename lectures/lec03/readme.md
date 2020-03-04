@@ -326,7 +326,7 @@ At present, your document will look something like the following.
 
 Our page, with this code, contains a bit more content now.
 
-<img src="img/simple_page.jpg" alt="page" />
+<img src="img/simple_page2.jpg" alt="page" />
 
 > *What does our DOM Tree look like at this point?*
 
