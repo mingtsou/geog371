@@ -289,6 +289,9 @@ Now we can add the image to our index.html. The following line of code uses the 
 
 Copy and paste this following line in between the `body` tags in your `index.html`, after your last paragraph.
 
+```xml
+<img src="img/sdsu.jpg"/>
+```
 > *Can you add another image, perhaps one showing Storm Hall?*
 
 If you want to add an image from another page, you can simply include the URL at which the image is located. The following links to an image for Storm Hall.
