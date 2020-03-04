@@ -281,7 +281,7 @@ You have many options for links. For example, if you want a link to open in a ne
 
 Adding an image is just as easy as adding a hyperlink, although a bit different. An image is not stored on your webpage, but it sits on your server, just like your other files. When you display an image in an html file, you are linking to the image. The HTML tells the browser to locate and display it. Therefore, we will follow a multiple step process.
 
-- Create a sub-folder named `img` in your web directory. Download and save this image to the img folder (named **sdsu.jpg**. In this folder, you'll store all subsequent images you want to use in your page.
+- Create a sub-folder named `img` in your web directory. Download and save this image (https://github.com/mingtsou/geog583/blob/master/lectures/lec03/img/SDSU.jpg)  to the `img` folder (named **SDSU.jpg**. In this folder, you'll store all subsequent images you want to use in your page.
 
 - Use the `img` tag to link to that image in your `index.html`
 
@@ -290,7 +290,7 @@ Now we can add the image to our index.html. The following line of code uses the 
 Copy and paste this following line in between the `body` tags in your `index.html`, after your last paragraph.
 
 ```xml
-<img src="img/sdsu.jpg"/>
+<img src="img/SDSU.jpg"/>
 ```
 > *Can you add another image, perhaps one showing Storm Hall?*
 
@@ -317,6 +317,7 @@ At present, your document will look something like the following.
 		<div id="main">
 			<p id="foo">This is my first paragraph.</p>
 			<p id="bar">This is my second paragraph. <a href="http://www.sdsu.edu">Take me to SDSU</a>.</p>
+			<img src="img/SDSU.jpg"/>
 			<img src=https://newscenter.sdsu.edu/sdsu_newscenter/images/stories/newstormnasatir589.jpg/>
 		</div>
 	</body>
