@@ -38,21 +38,14 @@ Please activate a web server environment under the Lab05 directory by **SimpleHT
 
 ```html
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="utf-8">
-    <title>Hello World</title>
-    <link href="css/main.css" rel="stylesheet" />
 </head>
 <body>
-<!-- This is a comment -->
-<h1>Hello World</h1>
-<div id="main" class>
-    <p id="foo">This is my first paragraph. </p>
-    <p> add a new paragraph</p>
-    <p id="bar">This is my second paragraph. <a href="http://www.sdsu.edu">Take me to SDSU</a>.</p>
-    <img src="img/sdsu.jpg"/>
-</div>
+
+    <button type="button" onclick="helloworld()"> Click Me!</button>
+    <div id="foo"></div>
+    <script src="js/main.js"></script>
 </body>
 </html>
 ```
