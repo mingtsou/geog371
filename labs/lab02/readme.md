@@ -26,16 +26,47 @@ When you are working with javascript, some of your main goals will be to:
 
 JavaScript can be added to your website by either typing in script between two script tags, or by linking a JavaScript file to your site. Please synchronize all the course material, the file structure for this lab is structured as below:
 ```powershell
-geog371
-    labs
-        lab02
-        │  index.html
-        │  readme.md
+Geog583
+    Exercise
+        Lab05
+        │  index.html 
         └─js
            └──main.js
         └─img
 ```
-Please activate a web server environment under the lab02 directory by **SimpleHTTPServer** or **Atom**.  Then visit `index.html` on Google Chrome. For example, if you activate a web server environment by SimpleHTTPServer with default setting, you may need to visit http://localhost:8000/index.html.
+Please activate a web server environment under the Lab05 directory by **SimpleHTTPServer** or **Atom**.  Then create a new `index.html` 
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Hello World</title>
+    <link href="css/main.css" rel="stylesheet" />
+</head>
+<body>
+<!-- This is a comment -->
+<h1>Hello World</h1>
+<div id="main" class>
+    <p id="foo">This is my first paragraph. </p>
+    <p> add a new paragraph</p>
+    <p id="bar">This is my second paragraph. <a href="http://www.sdsu.edu">Take me to SDSU</a>.</p>
+    <img src="img/sdsu.jpg"/>
+</div>
+</body>
+</html>
+```
+
+under the Lab05, create a `js`  folder. In the `js` folder, create a new `main.js`
+
+```js
+function helloworld() {
+    document.getElementById('foo').innerHTML = 'Hello, Web Mapping!';
+}
+```
+
+Open the index.html on Google Chrome or other Web browser. For example, if you activate a web server environment by SimpleHTTPServer with default setting, you may need to visit 
+http://localhost:8000/index.html.
 
 At the bottom of the body section, you will see the following code. This will read all code found in the `main.js` file that is in the js folder.
 
