@@ -1,10 +1,4 @@
-# Lab 2: Web Programming Basics II: Javascript
-
-> Winter 2018 | Geography 371 | Web Mapping
->
-> **Instructor:** Bo Zhao  **Location:** Wilkinson 210 | **Time:** Th 0800 - 1150
->
-> **Assigned:** 1/14/2019  | **Due:** 1/22/2019 23:59:59 | **Points Available** = 50
+# Lab Exercise 05 (Part-1) JavaScripts 
 
 ## 1. Preparation
 
