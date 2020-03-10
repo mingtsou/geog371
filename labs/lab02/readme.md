@@ -34,7 +34,7 @@ Geog583
            └──main.js
         └─img
 ```
-Please activate a web server environment under the Lab05 directory by **SimpleHTTPServer** or **Atom**.  Then create a new `index.html` 
+Please activate a web server environment under the Lab05 directory by **SimpleHTTPServer** or **Atom**.  Then create a new `index.html` as the following content.
 
 ```html
 <!DOCTYPE html>
@@ -50,7 +50,7 @@ Please activate a web server environment under the Lab05 directory by **SimpleHT
 </html>
 ```
 
-under the Lab05, create a `js`  folder. In the `js` folder, create a new `main.js`
+under the Lab05, create a `js`  folder. Inside the `js` folder, create a new `main.js` with the following content.
 
 ```js
 function helloworld() {
