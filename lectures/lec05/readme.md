@@ -1,4 +1,4 @@
-# Web Programming Basics III: JQuery
+# LAB05 PART-2 JQuery
 
 > Winter 2019 | Geography 371 | Web Mapping
 >
